@@ -2,6 +2,9 @@
 
 A new Flutter project.
 
+# Recommendations
+Android Version used to generate the build: **10**
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
