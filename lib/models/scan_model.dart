@@ -1,5 +1,4 @@
 import 'dart:convert';
-import 'package:meta/meta.dart';
 import 'package:google_maps_flutter/google_maps_flutter.dart' show LatLng;
 
 ScanModel scanModelFromJson(String str) => ScanModel.fromJson(json.decode(str));
